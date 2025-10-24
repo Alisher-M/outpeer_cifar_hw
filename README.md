@@ -15,6 +15,6 @@ streamlit_app.py Файл с streamlit приложением.
 
 -Инструкция по пользованию:
 
-1. Пройдите по ссылке
+1. Пройдите по ссылке https://alishermoutpeercifar.streamlit.app/
 2. Нажмите Choose an image
 3. Загрузите картинку
